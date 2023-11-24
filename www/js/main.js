@@ -1,11 +1,13 @@
-import { Browser } from "@capacitor/browser";
+//import { Browser } from "@capacitor/browser";
 
-const openCapSite = async () => {
+/**
+ * const openCapSite = async () => {
   await Browser.open({ url: "https://www.runebin.com/" });
 };
 
+ */
 setTimeout(() => {
-  //location = "https://www.runebin.com/";
-  openCapSite();
+  location = "https://www.runebin.com/";
+  //openCapSite();
   //alert("hi");
 }, 1000);
