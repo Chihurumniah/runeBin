@@ -1,5 +1,5 @@
 {
-  "appId": "com.runebin.app",
+  "appId": "io.ionic.starter",
   "appName": "runeBin",
   "webDir": "www",
   "server": {
