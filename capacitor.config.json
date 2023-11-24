@@ -1,0 +1,8 @@
+{
+  "appId": "com.runebin.app",
+  "appName": "runeBin",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
