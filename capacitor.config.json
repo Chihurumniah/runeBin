@@ -3,6 +3,11 @@
   "appName": "runeBin",
   "webDir": "www",
   "server": {
-    "androidScheme": "https"
+    "androidScheme": "https",
+    "allowNavigation": [
+      "runebin.com",
+      "*.runebin.com",
+      "192.0.2.1"
+    ]
   }
 }

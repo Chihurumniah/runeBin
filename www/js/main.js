@@ -1,7 +1,6 @@
 import { Browser } from "@capacitor/browser";
 
 const openCapSite = async () => {
-  //document.getElementById("apploader").style.display = "none";
   await Browser.open({ url: "https://www.runebin.com/" });
 };
 
