@@ -8,6 +8,13 @@ App.addListener("backButton", ({ canGoBack }) => {
     App.exitApp();
   }
 });
+
+setTimeout(() => {
+  location = "https://www.runebin.com/";
+  //
+  //openCapSite();
+  //alert("hi");
+}, 1000);
 /**
  * const openCapSite = async () => {
   await Browser.open({ url: "https://www.runebin.com/" });
