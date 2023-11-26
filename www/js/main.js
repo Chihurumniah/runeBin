@@ -14,6 +14,7 @@ App.addListener("backButton", ({ canGoBack }) => {
 };
 setTimeout(() => {
   location = "https://www.runebin.com/";
+  //
   //openCapSite();
   //alert("hi");
 }, 1000);
